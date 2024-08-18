@@ -13,6 +13,8 @@ This project will streamline data accessibility and analysis, enabling the organ
 
 #### File Structure
 
+/Your_Repository
+│
 ├── README.md
 │   └── Update README.md
 │
