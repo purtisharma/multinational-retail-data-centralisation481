@@ -13,24 +13,22 @@ This project will streamline data accessibility and analysis, enabling the organ
 
 #### File Structure
 
-/Your_Repository
-│
-├── README.md
-│   └── Update README.md
-│
-├── Schema
-│   ├── star_schema
-│   │   ├── keys.sql
-│   │   ├── dim_card_details.sql
-│   │   ├── dim_date_times.sql
-│   │   ├── dim_products.sql
-│   │   ├── dim_store_details.sql
-│   │   ├── dim_users.sql
-│   │   └── orders_table.sql
-│
-├── main.py
-├── data_cleaning.py
-├── data_extraction.py
-├── database_utils.py
-└── Database_query_script.sql
-    └── Task 4 questions
+- **/Your_Repository**
+  - **README.md**
+    - Update README.md
+  - **Schema**
+    - **star_schema**
+      - keys.sql
+      - dim_card_details.sql
+      - dim_date_times.sql
+      - dim_products.sql
+      - dim_store_details.sql
+      - dim_users.sql
+      - orders_table.sql
+  - **main.py**
+  - **data_cleaning.py**
+  - **data_extraction.py**
+  - **database_utils.py**
+  - **Database_query_script.sql**
+    - Task 4 questions
+
